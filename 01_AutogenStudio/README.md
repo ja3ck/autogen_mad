@@ -11,7 +11,7 @@ autogenstudio 실행
 autogenstudio ui
 ```
 
-![AutogenStudio](img/autogenstudio.png)
+![AutogenStudio](../img/autogenstudio.png)
 
 ## Simple Multi-Agent Debate
 
