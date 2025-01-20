@@ -3,7 +3,9 @@
 ## Environment
 
 1. Homebrew 설치
-![Homebrew](img/homebrew.png)
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 2. minconda 설치 
 ```bash
